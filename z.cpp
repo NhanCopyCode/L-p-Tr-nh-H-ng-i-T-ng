@@ -1,5 +1,4 @@
 #include<iostream>
-int x;
 #include<bits/stdc++.h>
 using namespace std;
 class Date{
